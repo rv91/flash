@@ -1,0 +1,55 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "title": "Samsung 24'' IPS LED FHD Monitor - 75 Hz - FreeSync, 4ms (HDMI) $89.99 (Open box - $73.99)",
+      "dealPrice": "$89.99",
+      "originalPrice": "$199.99",
+      "shipping": "Free",
+      "content_line1": "Best Buy has 24'' Samsung T350 1080p 75Hz 4ms FreeSync IPS Monitor (LF24T350FHNXZA) on sale for $89.99. Shipping is free or select free store pickup where available.",
+      "content_line2": "Product Highlights:In-Plane Switching (IPS) panel with great viewing angle (178⁰ H / 178⁰ V) 1920 x 1080 resolution (Full HD) 5ms response time 250 cd/㎡ peak brightness levels VESA mountable (100 x 100 mm) AMD Radeon FreeSync adaptable refresh rate (up to 75Hz max) One HDMI port and one VGA port Note: This monitor does not feature built-in speakers Customers Reviews: 4.4 out of 5 stars on Best Buy",
+      "content_line3": "https://www.bestbuy.com/site/sams...Id=6420870",
+      "available_colors": [],
+      "image_url": "/media/products/samsung.jpg",
+      "submitter": "Seeker116"
+    },
+    {
+      "id": 2,
+      "title": "Bose Noise Cancelling 700 Wireless Headphones (Refurbished)",
+      "dealPrice": "$212.50",
+      "originalPrice": "$399.95",
+      "shipping": "Free",
+      "content_line1": "Bose via eBay has Bose Noise Cancelling 700 Wireless Headphones (Refurbished, Black or Soapstone) on sale for $212.46 when you apply coupon code PURCHASECR15 at checkout. Shipping is free.",
+      "content_line2": "Thanks to community member sfdsk for finding this deal.",
+      "available_colors": ["Black", "Soapstone"],
+      "image_url": "/media/products/bose.jpg",
+      "submitter": "sfdsk"
+    },
+    {
+      "id": 3,
+      "title": "Best Ride On Cars Maserati Ghibli 12V Kids' Electric Car + $30 Kohl's Cash",
+      "dealPrice": "$150",
+      "originalPrice": "$299.99",
+      "shipping": "Free",
+      "content_line1": "Kohl's has Best Ride On Cars Maserati Ghibli 12V Kids' Electric Car (Red) + $30 Kohl's Cash (reflected in cart) on sale for $149.99. Shipping is free.",
+      "content_line2": "Thanks to community member anni77777 for finding this deal.",
+      "content_line3": "Note: Kohl's Cash may be redeemed December 25 - January 3 (details). Must select red color to get free shipping.",
+      "available_colors": [],
+      "image_url": "/media/products/masareti.jpg",
+      "submitter": "anni77777"
+    },
+    {
+      "id": 4,
+      "title": "Acer 11.6'' Touchscreen Convertible Spin 311 Chromebook, 4 GB 64GB Storage Target $199.99",
+      "dealPrice": "$199.99",
+      "originalPrice": "$299.99",
+      "shipping": "Free",
+      "content_line1": "11.6'' HD Touchscreen with IPS technology and Antimicrobial Corning Gorilla Glass. Companion On-the-Go; Intel Celeron processor provides crisp video playback and enables multitasking effortessly. ",
+      "content_line2": "Acer Touchscreen Convertible Spin 311 Chromebook,4 GB 64GB Storage, Intel Processor, Silver (CP311-2H-C7QD)Peace $199.99",
+      "available_colors": [],
+      "image_url": "/media/products/acer.jpg",
+      "submitter": "basset53"
+    }
+   
+  ]
+}

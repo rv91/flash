@@ -1,0 +1,67 @@
+body {
+  background-color: #e4e4e4 !important;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.blogTable{
+  border: 1em;
+  padding: 5em;
+}
+
+.bg-main-container{
+  background-color: #ffffff !important;
+}
+
+.strikeOut{
+  font-style: ;
+}
+
+.productImage{
+  width: 245px;
+  height: 245px;
+}
+
+.deal-green-button{
+  background-color: #74a531 !important;
+  border-color: #76a833 !important;
+  width:100%;
+  height: 50px;
+}
+
+.deal-green-button:hover{
+  background-color: #7baf34 !important;
+  border-color: #7eb337 !important;
+  width:100%;
+  height: 50px;
+}
+
+.dealTitle{
+  font-size:21px;
+  font-weight: 500;
+  line-height: 28px;
+}
+
+.productCard{
+  height:373px;
+  /* width:185px; */
+}
+
+.productCardImage{
+  height:155px;
+  width:185px;
+}
+
+.topNav{
+  width: 700;
+}
